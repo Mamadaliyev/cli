@@ -33,7 +33,7 @@
     "npx": "./bin/npx-cli.js"
   },
   "dependencies": {
-    "@npmcli/arborist": "0.0.0-pre.9",
+    "@npmcli/arborist": "github:npm/arborist#isaacs/easier-add",
     "JSONStream": "^1.3.5",
     "abbrev": "~1.1.1",
     "ansicolors": "~0.3.2",
